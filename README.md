@@ -150,5 +150,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-[YUVI] - [your.email@example.com]
-Project Link: [https://github.com/yourusername/face-tracking]
+[YUVI] - [yubrajmahanat@gmail.com]
+Project Link: [https://github.com/yuvi-Apk/FACE-LANDMARK-DETECTION]
