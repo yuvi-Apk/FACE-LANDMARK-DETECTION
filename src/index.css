@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+ /* Add this to your CSS file or style tag */
+.relative {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+video, canvas {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
